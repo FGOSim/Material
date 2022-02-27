@@ -91,7 +91,7 @@ body{
 }
 
 .title{
-	display：inline;
+	display: inline;
 	font-size: 120%;
 	font-family: 'Times New Roman', 'Times New Roman Bold', serif;
 	margin: 0;
@@ -477,6 +477,7 @@ input, select, textarea {
 }
 .select-class {
 	height: 60px;
+}
 .select-class label {
 	height: 65px;
 	margin: 2px 8px;
